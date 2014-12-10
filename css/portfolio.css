@@ -174,7 +174,7 @@ a {
 }
 
 
-.p-center, #work-heading {
+#p-center, #work-heading {
     
     text-align: center;
     
@@ -192,6 +192,47 @@ figure#lettering-heart {
     
 text-align: center;
     margin: 40px 0;
+    
+}
+
+#drawandcreate {
+    
+    width: 50%;
+    margin: 0 auto;
+    
+    
+}
+
+#draw, #create {
+    
+    float: left;
+    width: 100px; /* was 200 */
+
+
+    
+}
+
+#draw img, #create img {
+    
+    width: 100%;
+    
+}
+
+p#and {
+    
+font-size: 3.9em;
+font-weight: 100;
+float: left;
+width: 50px;
+text-align: center;
+padding: 10px;
+    
+}
+
+h3#passion {
+    
+    clear: both;
+    
     
 }
 
