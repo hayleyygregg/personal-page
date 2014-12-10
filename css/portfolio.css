@@ -13,14 +13,216 @@
 
         body {
             
-            font-family: 'Roboto', sans-serif;
+            font-family: 'Roboto', 'Source Sans Pro', sans-serif;
             font-weight: 300;
+            color: #2c2c2c;
+        
             
             
             
         }
    
-   
+
+        article {
+            
+
+            
+        }
+
+
+        section, #about {
+            
+            width: 60%;
+            margin: 0 auto;
+            padding: 80px 0; /* might have to change */
+            
+        }
+
+
+        #work {
+            
+            width: 100%;
+            background-color: #2deadb;  /*  another nice colour #00e5e5 light blue colour #87f2ee */
+            padding-top: 40px;
+            
+            
+        }
+
+
+
+
+header {
+    
+    background-color: #2deadb; /*  another nice colour #00e5e5 light blue colour #87f2ee */
+/*    color: white; in a diff place*/
+    padding: 120px;
+    
+}
+
+
+
+        h1, h2, h3, h4, h5, h6 {
+            
+            text-align: center;
+            margin: 20px 0;
+            font-weight: 300;
+            
+        }
+
+
+
+h1 {
+    
+    font-size: 2.8em;
+    font-weight: 100;
+    margin: 0;
+    
+}
+
+h2#subtitle {
+ 
+    margin-top: 5px;
+    padding-top: 0;
+    font-weight: 300;
+    font-size: 1.4em;
+
+    
+}
+
+h3, #work-heading {
+    
+    
+        font-size: 1.9em;
+    
+    
+}
+
+
+h1, h2#subtitle, #work-heading {
+    
+    color: white;
+    
+    
+}
+
+
+footer h4 {
+    
+    font-size: 0.7em;
+/*    font-weight: 400;*/
+    color: #c3c3c3;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 10px;
+
+    
+    
+}
+
+footer {
+    
+    
+    margin-bottom: 50px;
+    
+    
+}
+
+#about {
+    
+    
+    padding-bottom: 50px; /* bring social links closer */
+    
+    
+}
+
+#about h3 {
+    
+    margin: 0;
+margin-bottom: 20px;
+    
+    
+}
+
+
+#about p {
+    
+    margin: 20px;
+    line-height: 1.5;
+    font-size: 1em; /* or 1.2? */
+    
+}
+
+p#more-about {
+    
+/*    text-align: center;*/
+    font-family: 'Lobster', cursive;
+    font-size: 1.4em;
+    margin-bottom: 0px; /* was 10px */
+    
+}
+
+
+
+
+a {
+    
+    text-decoration: none;
+    border-bottom: 1px solid #5a5959;
+    color: #5a5959;
+    
+    
+}
+
+
+.p-center, #work-heading {
+    
+    text-align: center;
+    
+    
+}
+
+figure#lettering-heart {
+    
+text-align: center;
+    margin: 40px 0;
+    
+}
+
+
+
+
+ul#social { 
+    
+    
+    text-align: center;
+    list-style-type: none;
+/*    margin-top: 20px;*/
+
+    
+    
+    
+}
+
+
+ul#social li {
+    
+    
+    display: inline;
+    margin: 5px;
+    
+    
+}
+
+a.social-links {
+    
+    border-bottom: none;
+    
+    
+}
+
+
+
+
         #txtOverlay { 
             
             width:390px; 
