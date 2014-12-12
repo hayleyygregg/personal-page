@@ -332,6 +332,11 @@ ul#showcase li a, ul#showcase li a:link, ul#showcase li a:hover, ul#showcase li 
 }
 
 
+/* Source of Image Overlay http://www.w3schools.com/css/css_image_transparency.asp 
+
+Image Text Overlay help http://www.corelangs.com/css/box/overlay.html */
+
+
 ul#showcase li img, ul#showcase2 li img {
     
     width: 300px;
