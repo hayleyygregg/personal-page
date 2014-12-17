@@ -159,7 +159,7 @@ margin-bottom: 20px;
     
 margin: 40px auto;
 line-height: 1.5;
-font-size: 1em; /* or 1.2? */
+font-size: 1.1em; /* or 1.2? - was 1em but too small and 1.2 too big */
 width: 75%;
     
 }
