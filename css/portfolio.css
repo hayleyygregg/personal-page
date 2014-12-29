@@ -198,6 +198,22 @@ a {
     
 }
 
+#subtitle a {
+    
+    color: white;
+    border: none;
+    
+    
+}
+
+#subtitle a:hover {
+    
+    
+    color: #5a5959; 
+    
+    
+}
+
 
 #work-subheading a,#work-subheading a:link, #work-subheading a:visited {
     
