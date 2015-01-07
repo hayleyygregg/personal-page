@@ -11,9 +11,7 @@ personal-page
 * [Version 4](http://hayleyygregg.github.io/personal-page/version4.html)
 
 
-<!--
 * [Version 5](http://hayleyygregg.github.io/personal-page/version5.html)
 
 
 * [Version 6](http://hayleyygregg.github.io/personal-page/version6.html)
--->
